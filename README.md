@@ -1,1 +1,1 @@
-ok.github.io
+o-k.github.io
