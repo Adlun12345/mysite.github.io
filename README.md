@@ -1,1 +1,1 @@
-o-k.github.io
+my-site.github.io
